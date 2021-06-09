@@ -13,3 +13,6 @@ These are challenges from [Kevin Powell](https://www.kevinpowell.co/)'s course [
 - [Challenge #1](https://codepen.io/cartografa/pen/LYWLjwp)
 - [Challenge #2](https://codepen.io/cartografa/pen/VwpMxVO)
 - [Challenge #3](https://codepen.io/cartografa/pen/ZEeRMWR)
+- [Flexbox Challenge #1](https://codepen.io/cartografa/pen/vYxzLBM)
+- [Flexbox Challenge #2](https://codepen.io/cartografa/pen/rNyZxxJ)
+- [Flexbox Challenge #3](https://codepen.io/cartografa/pen/zYZJrBj)
